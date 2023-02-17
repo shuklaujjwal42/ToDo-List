@@ -36,5 +36,5 @@ This endpoint updates the task with the specified ID to have the specified title
 
 5. Delete a Task
 DELETE /tasks/<int:task_id>
-This endpoint deletes the task with the specified ID and returns a JSON object for the deleted task.
+This endpoint deletes the task with the specified ID and returns a JSON object for the deleted task. 
 
